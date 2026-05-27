@@ -1,27 +1,194 @@
-# 💫 About Me:
-# Hi, I'm Krish M 👋<br><br>### Senior Full-Stack & Mobile Developer | React | React Native | Node.js | GraphQL | Agentic AI<br><br>I'm a Senior Full-Stack and Mobile Developer with 10+ years of experience building scalable, high-performing web and mobile applications across transportation, retail, e-commerce, healthcare, HR, workforce platforms, and enterprise cloud systems.<br><br>I specialize in creating production-ready user experiences using **React.js, React Native, TypeScript, Redux, Node.js, NestJS, GraphQL, PostgreSQL, Swift, Objective-C, Kotlin, Tailwind CSS, Storybook, and design systems**.<br><br>I enjoy solving complex business problems, building clean and reusable architecture, improving application performance, and delivering reliable features that create real business impact.<br><br>---<br><br>## 🚀 About Me<br><br>- 🔭 Currently working as a **Lead Software Engineer**<br>- 💻 Experienced in **React, React Native, Angular, Node.js, NestJS, GraphQL, PostgreSQL, iOS, Android, and cloud-based systems**<br>- 🧩 Strong background in **greenfield project setup, reusable UI architecture, micro frontends, API integrations, and state management**<br>- 📱 Built cross-platform mobile applications using **React Native**, with native iOS and Android integrations<br>- 🎨 Experienced in translating **Figma designs** into scalable, accessible, production-ready UI<br>- 🧪 Focused on clean code, testing, accessibility, performance, and maintainable engineering practices<br>- 🤝 Enjoy mentoring developers, reviewing PRs, collaborating with product/QA teams, and leading feature delivery<br>- ✍️ Exploring and writing about **Agentic AI, intent-aware memory, and developer productivity**<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### Frontend<br>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)<br>![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)<br><br>### Backend<br>![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)<br>![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)<br>![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)<br>![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)<br><br>### Mobile<br>![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)<br>![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)<br>![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge)<br>![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)<br>![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)<br><br>### UI, Design & Tooling<br>![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)<br>![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)<br>![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)<br><br>---<br><br>## 💼 Experience Highlights<br><br>### Toyota Motor Corporation<br>**Lead Software Engineer**  <br>Building and improving enterprise allocation workflows, scalable frontend architecture, and reliable business-critical user experiences.<br><br>### Best Buy<br>**Software Developer II - Digital & Technology**  <br>Worked on digital and technology platforms with a focus on modern frontend development, scalable UI, performance, and enterprise delivery.<br><br>### IBM<br>**Senior Software Developer**  <br>Developed enterprise-grade applications, collaborated across teams, and delivered reliable solutions in complex business environments.<br><br>### Dell Technologies<br>**Software Developer - React & Node.js**  <br>Built web applications using React, Node.js, APIs, and modern frontend/backend development practices.<br><br>---<br><br>## 🧠 Current Interests<br><br>I'm currently exploring how AI systems can move beyond simple memory storage and toward **intent-aware memory**.<br><br>In one of my recent Medium posts, I discussed why storing raw text or markdown-style memory is not enough for scalable AI agents. I’m interested in systems that capture the **reasoning, intent, constraints, and decision patterns** behind user actions.<br><br>Areas I’m interested in:<br><br>- Agentic AI<br>- Intent-aware memory<br>- AI developer tools<br>- Multi-agent workflows<br>- Graph-based memory systems<br>- Redis, Postgres, and Neo4j-based AI architectures<br>- Developer productivity with AI coding assistants<br><br>---<br><br>## ✍️ Latest Writing<br><br>### Are You Guys Still Using Markdown Files for Memory? If Yes, You Need to Change Your Strategy.<br><br>I wrote about the engineering cost of weak memory layers in AI agents and why intent-aware memory can help agents reason better across sessions.<br><br>📖 Read here:  <br>[Medium Blog Post](https://medium.com/@krish.mudaavath/are-you-guys-still-using-markdown-files-for-memory-if-yes-you-need-to-change-your-strategy-b90325436dfd)<br><br>---<br><br>## 📌 Featured Focus Areas<br><br>- Building scalable React and React Native applications<br>- Designing reusable UI systems and component libraries<br>- Integrating GraphQL and REST APIs<br>- Improving frontend performance and accessibility<br>- Creating clean full-stack architecture<br>- Supporting mobile apps across iOS and Android<br>- Using AI tools like GitHub Copilot to improve engineering productivity<br>- Mentoring developers and improving code quality through PR reviews<br><br>---<br><br>## 📊 GitHub Stats<br><br>> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.<br><br>![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)<br><br>---<br><br>## 🤝 Let's Connect<br><br>I'm open to meaningful conversations around full-stack engineering, React Native, frontend architecture, AI developer tools, and agentic AI systems.<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krish_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-m-ab6095135/)<br>[![Medium](https://img.shields.io/badge/Medium-Sai_M-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@krish.mudaavath)<br><br>---<br><br>### “Build reliable systems, create seamless experiences, and keep learning every day.”
+### 💫 About Me
 
+#### Hi, I'm Krish M 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-m-ab6095135) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@krish.mudaavath) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krish.mudaavath@gmail.com) 
+##### Senior Full-Stack & Mobile Developer | React | React Native | Node.js | GraphQL | Agentic AI
 
-# 💻 Tech Stack:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=krish2792&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=krish2792&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=krish2792&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+I'm a Senior Full-Stack and Mobile Developer with 10+ years of experience building scalable, high-performing web and mobile applications across transportation, retail, e-commerce, healthcare, HR, workforce platforms, and enterprise cloud systems.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=krish2792&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+I specialize in creating production-ready user experiences using **React.js, React Native, TypeScript, Redux, Node.js, NestJS, GraphQL, PostgreSQL, Swift, Objective-C, Kotlin, Tailwind CSS, Storybook, and design systems**.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=krish2792&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I enjoy solving complex business problems, building clean and reusable architecture, improving application performance, and delivering reliable features that create real business impact.
 
 ---
-[![](https://komarev.com/ghpvc/?username=krish2792&icon=1&color=2)](https://visitcount.itsvg.in)
+
+#### 🚀 About Me
+
+- 🔭 Currently working as a **Lead Software Engineer**
+- 💻 Experienced in **React, React Native, Angular, Node.js, NestJS, GraphQL, PostgreSQL, iOS, Android, and cloud-based systems**
+- 🧩 Strong background in **greenfield project setup, reusable UI architecture, micro frontends, API integrations, and state management**
+- 📱 Built cross-platform mobile applications using **React Native**, with native iOS and Android integrations
+- 🎨 Experienced in translating **Figma designs** into scalable, accessible, production-ready UI
+- 🧪 Focused on clean code, testing, accessibility, performance, and maintainable engineering practices
+- 🤝 Enjoy mentoring developers, reviewing PRs, collaborating with product/QA teams, and leading feature delivery
+- ✍️ Exploring and writing about **Agentic AI, intent-aware memory, and developer productivity**
+
+---
+
+#### 🛠️ Tech Stack
+
+##### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+##### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+##### Mobile
+
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+##### UI, Design & Tooling
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+
+---
+
+#### 💼 Experience Highlights
+
+##### Toyota Motor Corporation
+
+**Lead Software Engineer**  
+Building and improving enterprise allocation workflows, scalable frontend architecture, and reliable business-critical user experiences.
+
+##### Best Buy
+
+**Software Developer II - Digital & Technology**  
+Worked on digital and technology platforms with a focus on modern frontend development, scalable UI, performance, and enterprise delivery.
+
+##### IBM
+
+**Senior Software Developer**  
+Developed enterprise-grade applications, collaborated across teams, and delivered reliable solutions in complex business environments.
+
+##### Dell Technologies
+
+**Software Developer - React & Node.js**  
+Built web applications using React, Node.js, APIs, and modern frontend/backend development practices.
+
+---
+
+#### 🧠 Current Interests
+
+I'm currently exploring how AI systems can move beyond simple memory storage and toward **intent-aware memory**.
+
+In one of my recent Medium posts, I discussed why storing raw text or markdown-style memory is not enough for scalable AI agents. I’m interested in systems that capture the **reasoning, intent, constraints, and decision patterns** behind user actions.
+
+Areas I’m interested in:
+
+- Agentic AI
+- Intent-aware memory
+- AI developer tools
+- Multi-agent workflows
+- Graph-based memory systems
+- Redis, Postgres, and Neo4j-based AI architectures
+- Developer productivity with AI coding assistants
+
+---
+
+#### ✍️ Latest Writing
+
+##### Are You Guys Still Using Markdown Files for Memory? If Yes, You Need to Change Your Strategy.
+
+I wrote about the engineering cost of weak memory layers in AI agents and why intent-aware memory can help agents reason better across sessions.
+
+📖 Read here:  
+[Medium Blog Post](https://medium.com/@krish.mudaavath/are-you-guys-still-using-markdown-files-for-memory-if-yes-you-need-to-change-your-strategy-b90325436dfd)
+
+---
+
+#### 📌 Featured Focus Areas
+
+- Building scalable React and React Native applications
+- Designing reusable UI systems and component libraries
+- Integrating GraphQL and REST APIs
+- Improving frontend performance and accessibility
+- Creating clean full-stack architecture
+- Supporting mobile apps across iOS and Android
+- Using AI tools like GitHub Copilot to improve engineering productivity
+- Mentoring developers and improving code quality through PR reviews
+
+---
+
+#### 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krish_M-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-m-ab6095135/)
+[![Medium](https://img.shields.io/badge/Medium-Krish_M-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@krish.mudaavath)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krish.mudaavath@gmail.com)
+
+---
+
+#### 💻 Additional Tech Stack
+
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-3A95E3?style=flat-square&logo=apple&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+#### 📊 GitHub Stats
+
+![Krish's GitHub Stats](https://github-readme-stats.shion.dev/api?username=krish2792&theme=merko&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=krish2792&theme=merko&hide_border=true)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=krish2792&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+#### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=krish2792&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+#### ✍️ Random Dev Quote
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+#### 🔝 Top Contributed Repo
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=krish2792&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+#### 👀 Profile Views
+
+[![Profile Views](https://komarev.com/ghpvc/?username=krish2792&icon=1&color=2)](https://visitcount.itsvg.in)
+
+---
+
+##### “Build reliable systems, create seamless experiences, and keep learning every day.”
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
